@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "388375136357",
-    "project_id": "navigationdrawer001",
-    "storage_bucket": "navigationdrawer001.appspot.com"
+    "project_number": "776995180468",
+    "project_id": "mobile2-69cec",
+    "storage_bucket": "mobile2-69cec.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:388375136357:android:612055d8a717b77aa2de8c",
+        "mobilesdk_app_id": "1:776995180468:android:61e35b658fb8f10ca7ece1",
         "android_client_info": {
           "package_name": "com.example.navigationdrawer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "388375136357-dtrunp80iq9h8flkqfharfsfba0a97r1.apps.googleusercontent.com",
+          "client_id": "776995180468-0vui1jlir2fmnkqc8cq2d85r7e7nmqvn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvPd1Ie3Qq6w4X2ZUif7vgKL6zrae3p8A"
+          "current_key": "AIzaSyDBDPQWcy7rGyvzmVX7kZvCaMas3VslSuk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "388375136357-dtrunp80iq9h8flkqfharfsfba0a97r1.apps.googleusercontent.com",
+              "client_id": "776995180468-0vui1jlir2fmnkqc8cq2d85r7e7nmqvn.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
