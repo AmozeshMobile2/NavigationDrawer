@@ -14,7 +14,7 @@
         <activity android:name="com.LoginActivity"></activity>
         <activity android:name="com.example.NormalRecyclerView" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

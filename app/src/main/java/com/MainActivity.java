@@ -1,4 +1,4 @@
-package com.example.navigationdrawer;
+package com;
 
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
@@ -12,13 +12,12 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Toast;
 
-import com.LoginActivity;
 import com.example.NormalRecyclerView;
 import com.example.navigationdrawer.Fragments.FragmentChat;
 import com.example.navigationdrawer.Fragments.FragmentMail;
 import com.example.navigationdrawer.Fragments.FragmentProfile;
+import com.example.navigationdrawer.R;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationView;
 
